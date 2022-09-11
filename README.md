@@ -11,7 +11,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-eb7325?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-13aa52?style=flat-square&logo=markdown&logoColor=white" />
 </p>
