@@ -16,6 +16,9 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-13aa52?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
+#### And this is what I'm vibing to while I work:
+[![Spotify](https://meliospotify.vercel.app/api/spotify)](https://open.spotify.com/user/melmarochov)
+                                                                                                                         
 <!--
 #### The cool stuff I used in this README:
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
