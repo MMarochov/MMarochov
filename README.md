@@ -22,6 +22,7 @@
 <!--
 #### The cool stuff I used in this README:
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+- [Spotify Listening Activity App](https://github.com/novatorem/novatorem)
 
 
 **MMarochovOS/MMarochovOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
