@@ -17,7 +17,7 @@
 </p>
 
 #### And this is what I'm vibing to while I work:
-[![Spotify](https://meliospotify.vercel.app/api/spotify]()
+![Spotify](https://meliospotify.vercel.app/api/spotify)
                                                                                                                          
 <!--
 #### The cool stuff I used in this README:
