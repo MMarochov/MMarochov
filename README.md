@@ -14,7 +14,7 @@
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-eb7325?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-BAF748?style=flat-square&logo=vercel&logoColor=black" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-QGIS-47E000?style=flat-square&logo=qgis&logoColor=white" />
+  <img alt="QGIS" src="https://img.shields.io/badge/-QGIS-47E000?style=flat-square&logo=qgis&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-41CC00?style=flat-square&logo=anaconda&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-13aa52?style=flat-square&logo=markdown&logoColor=white" />
 </p>
