@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=978CFF&vCenter=true&multiline=true&width=435&height=65&lines=I+love+learning+new+things%2C;especially+in+web+dev+and+Python!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=978CFF&vCenter=true&multiline=true&width=435&height=85&lines=There+are+so+many+things;that+I+want+to+learn;aaaaaah)](https://git.io/typing-svg)
 
 #### Here's what I've been using along the way:
 <p>
