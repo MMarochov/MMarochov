@@ -17,6 +17,7 @@
   <img alt="QGIS" src="https://img.shields.io/badge/-QGIS-47E000?style=flat-square&logo=qgis&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-41CC00?style=flat-square&logo=anaconda&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-13aa52?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 #### And this is what I'm vibing to while I work:
