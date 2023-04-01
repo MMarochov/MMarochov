@@ -7,6 +7,8 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt=""Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-5849BE?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-9431d9?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-c9177e?style=flat-square&logo=hugo&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-db7092?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
